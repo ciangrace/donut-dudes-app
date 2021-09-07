@@ -1,0 +1,26 @@
+{
+	
+		"toppings": [{
+				"id": 0,
+				"name": "chocolate sprinkles",
+				"price": 0.75,
+				"image": "public/images/toppings/chocolate sprinkles.jpg",
+				"alt": "chocolate sprinkles"
+			},
+			{
+				"id": 1,
+				"name": "100s & 1000s",
+				"price": 0.75,
+				"image": "public/images/toppings/sprinkles.jpg",
+				"alt": "100s & 1000s"
+			},
+			{
+				"id": 2,
+				"name": "chocolate",
+				"price": 0.5,
+				"image": "public/images/toppings/chocolate.jpg",
+				"alt": "chocolate"
+			}
+	
+		]
+	}
